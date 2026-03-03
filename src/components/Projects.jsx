@@ -13,7 +13,7 @@ const projects = [
         color: "from-purple-500 to-indigo-500",
         image: todoImg,
         github: "https://github.com/datt-patel2909/todo",
-        demo: "https://todo-appbydattpatel.up.railway.app/"
+        demo: "https://todo-list-rd7y.onrender.com"
     },
     {
         title: "Job Tracker",
